@@ -16,7 +16,7 @@ This project demonstrates proficiency in ETL (Extract, Transform, Load) processe
 
 ### Sentiment Distribution
 *Automated bar chart generation visualizing the ratio of positive to negative feedback extracted from customer reviews.*
-![Sentiment Analysis Results](7665ffc6-79e1-4b85-9597-8f6dcb0251a4.png)
+![Sentiment Analysis Results](2222c953-4891-4479-a053-97392dfcab7a)
 
 ### Keyword Word Cloud
 *Visual aggregation of the most prominent words extracted from customer reviews.*
